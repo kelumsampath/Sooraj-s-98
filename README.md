@@ -39,7 +39,7 @@ I mostly work with full stack web  technologies.☁️🚀
       <img src="https://github.com/Sooraj-s-98/Sooraj-s-98/blob/master/assets/heroku.png"  height="75" />
     </a>
     <a href="https://golang.org/" target="_blank" >
-        <img src="https://github.com/Sooraj-s-98/README.md/blob/master/assets/aws.gif"  height="75" />
+        <img src="https://github.com/Sooraj-s-98/Sooraj-s-98/blob/master/assets/aws.gif"  height="75" />
     </a>
  </p>
   
@@ -48,10 +48,10 @@ I mostly work with full stack web  technologies.☁️🚀
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://github.com/Sooraj-s-98/README.md/blob/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/Sooraj-s-98/Sooraj-s-98/blob/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://github.com/Sooraj-s-98/README.md/blob/master/assets/mongo.gif" height="80" />
+    <img src="https://github.com/Sooraj-s-98/Sooraj-s-98/blob/master/assets/mongo.gif" height="80" />
   </a>
 </p>
 
