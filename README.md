@@ -11,9 +11,10 @@ I mostly work with full stack web  technologies.☁️🚀
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://github.com/Sooraj-s-98/README.md/blob/master/assets/aws.gif"  height="90" />
+    <img src="https://github.com/Sooraj-s-98/Sooraj-s-98/blob/master/assets/react.jfif"  height="90" />
   </a>
-
+      <img src="https://github.com/Sooraj-s-98/Sooraj-s-98/blob/master/assets/express.png"  height="90" />
+</p>
   
 ### deployment
   
