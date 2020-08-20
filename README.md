@@ -18,10 +18,7 @@ I mostly work with full stack web  technologies.☁️🚀
 ### deployment
   
  <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src=""  height="75" />
-  </a> &nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://github.com/Sooraj-s-98/Sooraj-s-98/blob/master/assets/heroku.png"  height="75" />
     <img src="https://github.com/Sooraj-s-98/README.md/blob/master/assets/aws.gif"  height="75" />
   </a>
  </p>
