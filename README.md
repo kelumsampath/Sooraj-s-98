@@ -1,8 +1,12 @@
-### Hi there 👋
+[![GitHib: sooraj s](https://img.shields.io/github/followers/sooraj-s-98?label=Follow&style=social)](https://github.com/Sooraj-s-98)
+[![Email: sooraj](https://img.shields.io/badge/Email-sooraj-red)](mailto:sooraj1998ayiroor@gmail.com)
+[![Website: Sooraj s](https://img.shields.io/badge/My-Website-blue)](http://sooraj.tech)
 
+### Hi there 👋
 <!--
 **Sooraj-s-98/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+[![Sooraj StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13152553)](https://stackoverflow.com/users/13152553/sooraj-s)
 
 I am [sooraj](https://www.sooraj.tech/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; 🎯
 
@@ -54,10 +58,3 @@ I mostly work with full stack web  technologies.☁️🚀
     <img src="https://github.com/Sooraj-s-98/Sooraj-s-98/blob/master/assets/mongo.gif" height="80" />
   </a>
 </p>
-
-### 📫 How to reach me? 
-
-  ⦿ Visit my [Website](https://www.sooraj.tech) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sooraj-s-055a18190/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:sooraj1998ayiroor@gmail.com) 💌 <br>
